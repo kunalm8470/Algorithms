@@ -18,7 +18,7 @@ namespace selection_sort
                 int minimum = i;
                 for (int j = i + 1; j < arr.Length; j++)
                 {
-                    if (arr[j] <= arr[minimum])
+                    if (arr[j] < arr[minimum])
                     {
                         minimum = j;
                     }
