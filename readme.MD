@@ -1,4 +1,4 @@
-# Sorting algorithms
+# Algorithms
 ___
 
 1. [Bubble sort](/bubble_sort/bubble_sort/Program.cs)
