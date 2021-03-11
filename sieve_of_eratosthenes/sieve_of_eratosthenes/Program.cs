@@ -7,6 +7,13 @@ namespace sieve_of_eratosthenes
 {
     class Program
     {
+        /// <summary>
+        /// <para> See https://en.wikipedia.org/wiki/Sieve_of_Eratosthenes#Pseudocode </para>
+        /// <para> and https://www.youtube.com/watch?v=V08g_lkKj6Q </para>
+        /// <para> and https://codereview.stackexchange.com/a/82870/162652 </para>
+        /// </summary>
+        /// <param name="upperBound">Upper bound upto which to generate prime numbers</param>
+        /// <returns>Lazily evaluated prime number list</returns>
         public static IEnumerable<int> GenerateNPrimeNumbers(int upperBound)
         {
             // Assume everything is prime initially
