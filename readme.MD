@@ -9,5 +9,5 @@ ___
 6. [Binary Search](/binary_search/binary_search/Program.cs)
 7. [Binary Search Tree Traversals](TreeTraversals/TreeTraversals/Program.cs)
     * [Inorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L12-L19)
-    * [Preorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L22-L28)
-    * [Postorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L31-L37)
+    * [Preorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L21-L28)
+    * [Postorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L30-L37)

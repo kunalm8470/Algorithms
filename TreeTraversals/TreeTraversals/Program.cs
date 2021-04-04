@@ -12,9 +12,9 @@ namespace TreeTraversals
              *       1
              *       /\
              *      2  3
-             *         /\
-             *        4  5
-             *        
+             *      /\
+             *     4  5
+             *
             */ 
             BinarySearchTree bst = new BinarySearchTree();
             bst.Root = new Node(1);
