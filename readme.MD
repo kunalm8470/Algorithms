@@ -11,3 +11,4 @@ ___
     * [Inorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L12-L19)
     * [Preorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L21-L28)
     * [Postorder traversal](TreeTraversals/TreeTraversals/BinarySearchTree.cs#L30-L37)
+8. [Stack](stack/stack/Stack.cs)
