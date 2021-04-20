@@ -15,3 +15,4 @@ ___
 9. [Reverse linked list](reverse_linked_list/reverse_linked_list/Node.cs#L14-L31)
 10. [BST node insertion and searching](tree_operations/tree_operations/Node.cs)
 11. [Printing leaf nodes of a BST](printing_leaf_nodes/printing_leaf_nodes/Models/Node.cs#L26-L43)
+12. [Height of BST](height_of_bst/height_of_bst/Node.cs#L30-L38)
