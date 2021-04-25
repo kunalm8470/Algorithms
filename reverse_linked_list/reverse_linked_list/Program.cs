@@ -11,7 +11,11 @@ namespace reverse_linked_list
 
             for (int i = arr.Length - 1; i >= 0; i--)
             {
-                head = new Node(arr[i], head);
+                head = new Node
+                {
+                    Data = arr[i],
+                    Next = head
+                };
             }
 
             Node reversed = Node.Reverse(head);
