@@ -17,3 +17,4 @@ ___
 11. [Printing leaf nodes of a BST](printing_leaf_nodes/printing_leaf_nodes/Models/Node.cs#L26-L43)
 12. [Height of BST](height_of_bst/height_of_bst/Node.cs#L30-L38)
 13. [Double Linked List Implementation](doubly_linked_list/doubly_linked_list/DoubleLinkedList.cs)
+14. [Deleting node from Single linked list](deleting_occurences_linked_list/deleting_occurences_linked_list/SingleLinkedList.cs#L76-L110)
