@@ -16,3 +16,4 @@ ___
 10. [BST node insertion and searching](tree_operations/tree_operations/Node.cs)
 11. [Printing leaf nodes of a BST](printing_leaf_nodes/printing_leaf_nodes/Models/Node.cs#L26-L43)
 12. [Height of BST](height_of_bst/height_of_bst/Node.cs#L30-L38)
+13. [Double Linked List Implementation](doubly_linked_list/doubly_linked_list/DoubleLinkedList.cs)
