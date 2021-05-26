@@ -30,6 +30,7 @@ namespace DecimalToHex
             };
 
             StringBuilder builder = new();
+            // Logic - https://www.rapidtables.com/convert/number/decimal-to-hex.html
             while (d != 0)
             {
                 d = Math.DivRem(d, 16, out int rem);
