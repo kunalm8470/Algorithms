@@ -15,7 +15,6 @@ namespace deleting_occurences_linked_list
             {
                 Console.WriteLine(item.Data);
             }
-            
         }
     }
 }

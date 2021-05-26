@@ -18,3 +18,4 @@ ___
 12. [Height of BST](height_of_bst/height_of_bst/Node.cs#L30-L38)
 13. [Double Linked List Implementation](doubly_linked_list/doubly_linked_list/DoubleLinkedList.cs)
 14. [Deleting node from Single linked list](deleting_occurences_linked_list/deleting_occurences_linked_list/SingleLinkedList.cs#L76-L110)
+15. [Decimal to hex](DecimalToHex/DecimalToHex/Program.cs#L10-L40)
