@@ -57,7 +57,7 @@ namespace doubly_linked_list
             }
         }
 
-        public DoubleLinkedList<T> AddLast(T data)
+        public DoubleLinkedList<T> InsertRear(T data)
         {
             Node<T> newNode = new Node<T>
             {
@@ -79,7 +79,7 @@ namespace doubly_linked_list
             return this;
         }
 
-        public DoubleLinkedList<T> AddFirst(T data)
+        public DoubleLinkedList<T> InsertFront(T data)
         {
             Node<T> newNode = new Node<T>
             {
@@ -113,7 +113,7 @@ namespace doubly_linked_list
             return false;
         }
 
-        public DoubleLinkedList<T> Remove(T data)
+        public DoubleLinkedList<T> Delete(T data)
         {
             if (_head == default) return this;
 
@@ -138,7 +138,7 @@ namespace doubly_linked_list
             return this;
         }
 
-        public DoubleLinkedList<T> RemoveFirst()
+        public DoubleLinkedList<T> DeleteFront()
         {
             if (_head == default) return this;
 
