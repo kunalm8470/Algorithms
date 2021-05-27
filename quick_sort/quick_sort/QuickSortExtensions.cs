@@ -26,7 +26,7 @@ namespace quick_sort
         }
 
         /// <summary>
-        /// Hoare's partition algorithm
+        /// Hoare's partition algorithm - https://en.wikipedia.org/wiki/Quicksort#Hoare_partition_scheme
         /// </summary>
         /// <param name="arr">Array</param>
         /// <param name="left">Left index</param>
