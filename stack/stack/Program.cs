@@ -1,17 +1,27 @@
-﻿namespace stack
+﻿using System;
+
+namespace stack
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Stack stk = new Stack();
-            stk.Push(1);
-            stk.Push(2);
-            stk.Push(3);
-            stk.Push(4);
-            stk.Push(5);
+            StackImpl<int> stk = new StackImpl<int>()
+            .Push(1)
+            .Push(2)
+            .Push(3)
+            .Push(4)
+            .Push(5)
+            .Push(6)
+            .Push(7);
 
-            int popped = stk.Pop();
+            Console.WriteLine("Popped - {0}", stk.Pop());
+            Console.WriteLine("Popped - {0}", stk.Pop());
+
+            foreach (int item in stk)
+            {
+                Console.WriteLine(item);
+            }
         }
     }
 }
